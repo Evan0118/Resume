@@ -1,0 +1,11 @@
+body {
+	background-image: linear-gradient(180deg,#fdd897e0,#c99940)
+}
+
+.background-color-layer{
+	box-shadow: inset 0 -40px 60px 10px #fdd897e0;
+}
+
+ul {
+	list-style-type:circle;
+}
